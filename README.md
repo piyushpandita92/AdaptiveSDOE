@@ -7,7 +7,7 @@ It needs the support of the following PYTHON packages.
 2. GPy (version 1.9.2, mandatory)
 3. matplotlib(version 2.0.0, best vizualization)
 4. seaborn (version 0.7.1, best vizualization)
-5. gpflow (clones from source)
+5. gpflow (clones from source, version 0.4.0)
 6. tensorflow 
 
 To install the package do the following:

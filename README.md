@@ -1,6 +1,7 @@
 # AdaptiveSDOE
 This module is called AdaptiveSDOE for Black-Box
-Bayesian Optimal Design of Experiments 
+Bayesian Optimal Design of Experiments, paper: 
+https://www.researchgate.net/profile/Piyush-Pandita/publication/353104083_Surrogate-based_sequential_Bayesian_experimental_design_using_non-stationary_Gaussian_Processes/links/60e83e650fbf460db8f31848/Surrogate-based-sequential-Bayesian-experimental-design-using-non-stationary-Gaussian-Processes.pdf
  
 It needs the support of the following PYTHON packages.
 1. pyDOE 
